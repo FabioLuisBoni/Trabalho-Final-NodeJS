@@ -1,5 +1,5 @@
 [Jump back here](#my-line)
-[See line 100](./PUBLISH_HEADER_PATTERN.md#L100)
+
 
  * id: base64 of the desired id of the opensearch document. Contained only if its a persistence reason.
 * index: desired index of the opensearch document. Contained only if its a persistence reason.
@@ -11,7 +11,7 @@
 
 ```
 {
-    "id": "MGU4ZTk0NWUtNDc5Mi00N2U3LWI3YmEtNmQwMWY3NTg3MzA0",
+    "id": "MGU4ZTk0NWUtNDc5Mi00N2U3LWI3YmEtNmQwMWY3NTg3MzA0",[See line 100](./README.md#L100)
     "index": "trinovati-alerts-communication",
     "service" "device_status_alert",
     "reason": "persistence",
